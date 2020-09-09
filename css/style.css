@@ -1,0 +1,41 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pic-pro
+{
+    width: 200px;
+    
+}
+
+.color-primary
+{
+    color: black;
+}
+
+.bg-essential
+{
+    background-color: black;
+}
+
+.img-preview
+{
+    width: 100%;
+}
+.project-preview
+{
+    background-color: #202020;
+    height: 300px;
+}
+
+.img-projects
+{
+    width: 650px;
+    height: 300px;
+}
+
+.contact
+{
+    background-color: #202020;
+}
